@@ -2,11 +2,11 @@
 
 This repository is prepared from the Hostinger Horizons export and configured for the GitHub user-site repository:
 
-`ImmigrationOfficeMedan/ImmigrationOfficeMedan.github.io`
+`ImmigrationOfficeMedan/IzinTinggalKNOSIGAP.github.io`
 
 Expected public URL:
 
-`https://immigrationofficemedan.github.io/`
+`https://immigrationofficemedan.github.io/IzinTinggalKNOSIGAP.github.io/`
 
 ## Important architecture note
 
