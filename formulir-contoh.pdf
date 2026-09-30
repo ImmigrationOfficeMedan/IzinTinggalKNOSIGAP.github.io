@@ -1,0 +1,25 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 5 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 210 >>
+stream
+BT /F1 20 Tf 56 770 Td (FORMULIR CONTOH - SIGAP) Tj ET
+BT /F1 12 Tf 56 736 Td (DATA CONTOH - Harap diperbarui oleh petugas) Tj ET
+BT /F1 12 Tf 56 716 Td (sebelum website digunakan secara resmi.) Tj ET
+BT /F1 12 Tf 56 680 Td (Dokumen ini hanya placeholder untuk prototype.) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+trailer
+<< /Root 1 0 R >>
+%%EOF
